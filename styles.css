@@ -1,6 +1,17 @@
-p {
+p   {
     margin-left: 0;
-  }
- 
+        }
+img {
+    margin-left: 80px;
+        } 
+img {
+    padding-left: 80px;
+    }
+caption {
+    margin-left: 80px;
+    }
+caption {
+    padding-left: 80px;
+    }
 
   
