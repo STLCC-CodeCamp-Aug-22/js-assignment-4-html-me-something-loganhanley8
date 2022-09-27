@@ -10,7 +10,6 @@ img {
 body {
     background-color: rgb(255, 0, 0);
     }
-.h2 {
-    text-decoration: rgb(255, 255, 255);
-    }
-  
+ .body {
+    text-decoration-color: beige;
+ }
