@@ -10,6 +10,7 @@ img {
 body {
     background-color: rgb(255, 0, 0);
     }
- #B {
-    outline-color: beige;
- }
+    body element  {
+    margin: 8px;
+    }
+      
