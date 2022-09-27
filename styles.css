@@ -8,7 +8,9 @@ img {
     padding-left: 80px;
     }
 body {
-    background-color: rgb(205, 50, 50);
+    background-color: rgb(255, 0, 0);
     }
-
+.href {
+    color: rgb(255, 255, 255);
+      }
   
