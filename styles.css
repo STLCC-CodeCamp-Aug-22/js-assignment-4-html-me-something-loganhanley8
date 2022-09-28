@@ -6,7 +6,9 @@ img {
     padding-left: 80px;
         }
 body {
-    margin: 8px;
+    background-color: rgb(245, 155, 197);
     display : block;
+    margin: 0px;
+    padding: 0px;
     }
     
