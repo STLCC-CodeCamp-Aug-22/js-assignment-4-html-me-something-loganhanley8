@@ -10,5 +10,8 @@ img {
 body {
     background-color: rgb(245, 155, 197);
     }
+ body {
+    margin: 8px;
+    }
 
       
