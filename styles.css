@@ -1,1 +1,14 @@
-/* Write your CSS here! */
+p {
+    margin-left: 0;
+}
+
+img {
+    margin-left: 80px;
+    padding-left: 80px;
+}
+
+body {
+    display: block;
+    margin: 8px;
+    background-color: rgb(245, 155, 197);
+}
