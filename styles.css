@@ -1,14 +1,13 @@
-p   {
+p {
     margin-left: 0;
-        }
+}
+
 img {
     margin-left: 80px;
     padding-left: 80px;
-        }
+}
+
 body {
-    background-color: rgb(245, 155, 197);
-    display : block;
-    margin: 0px;
-    padding: 0px;
-    }
-    
+    display: block;
+    margin: 8px;
+}
